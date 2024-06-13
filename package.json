@@ -13,7 +13,7 @@
     "profile",
     "management"
   ],
-  "author": "virinchi",
+  "author": "charan",
   "license": "ISC",
   "dependencies": {
     "express": "^4.19.2",
